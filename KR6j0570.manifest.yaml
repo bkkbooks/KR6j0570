@@ -1,0 +1,799 @@
+canonical_identifier: bkk:krp/KR6j0570/v1
+canonical_location: https://kanripo.org/bkk/KR6j0570/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大法炬陀羅尼經
+  identifiers:
+    alt_id:
+    - T21n1340
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1340.xml
+    old_id: T21n1340
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0570_000.yaml, hash: 'sha256:3523bbc67fcc21d84a4eab34becc2f2bc6f1768d6dc0779b6bccf985f6f16ec4'}
+  - {seq: 1, filename: KR6j0570_001.yaml, hash: 'sha256:7dc2f5015a5bc500b0edc4f3c79083154adbaf210d61e6aef56585c6b46ea648'}
+  - {seq: 2, filename: KR6j0570_002.yaml, hash: 'sha256:b54a64c625ac02e824c56c3c4bab50444a3863a06e535638879777ca19f0cd6a'}
+  - {seq: 3, filename: KR6j0570_003.yaml, hash: 'sha256:130988f4efc669a3c75119da139d33c8727e46a9f504f0537a7a36a449bd3e29'}
+  - {seq: 4, filename: KR6j0570_004.yaml, hash: 'sha256:f842fd29450653634895a1f04d6ce883314ead88f146db19c0d88ba597a3848c'}
+  - {seq: 5, filename: KR6j0570_005.yaml, hash: 'sha256:2bb90a85e026f5d307d36953bf31bfee4d9ee2ac9df4a7115fbdf20125fa2af0'}
+  - {seq: 6, filename: KR6j0570_006.yaml, hash: 'sha256:ac49ceff5c0cefc5d7de3e39ba90d3e321dbe5ea97dc7da10fb9da41e3e1937f'}
+  - {seq: 7, filename: KR6j0570_007.yaml, hash: 'sha256:6d5ae3495a306d2ad03ee3fec08a4389969f9a3b664cdd644ace16d21a8121e2'}
+  - {seq: 8, filename: KR6j0570_008.yaml, hash: 'sha256:e762b6c30406672b63e32f76a329bdd4a125e9a53bb3c2ab4f8bb4cc47c906ee'}
+  - {seq: 9, filename: KR6j0570_009.yaml, hash: 'sha256:2ae0b850f260677b84d3467bb7e216f787e98b496f40963bbd35919413082ac5'}
+  - {seq: 10, filename: KR6j0570_010.yaml, hash: 'sha256:78814a80147258eaf4fa576c16d7164c5424a2b55209a1a452318a61c4dc20ec'}
+  - {seq: 11, filename: KR6j0570_011.yaml, hash: 'sha256:805f59c25f4d93bdd9b15f132e44a17a42cc64812d173fa31dc555efcb8dee2f'}
+  - {seq: 12, filename: KR6j0570_012.yaml, hash: 'sha256:b724a28e45b09394c12e8f983b2826bf37c140bb6db382aba24c84e01cce28df'}
+  - {seq: 13, filename: KR6j0570_013.yaml, hash: 'sha256:cc21e5a51cb5c174dc106b36d0acc98818cc9a70ce07fff2f19df50d2ed2ce48'}
+  - {seq: 14, filename: KR6j0570_014.yaml, hash: 'sha256:c511c0647eef56677fc903bebc48d935fa698a6cfae3f22884dbe808d1c508d5'}
+  - {seq: 15, filename: KR6j0570_015.yaml, hash: 'sha256:1d362c748ff928aea6308ac9add55f69d3507412b8136e530dced71509d5d9bb'}
+  - {seq: 16, filename: KR6j0570_016.yaml, hash: 'sha256:450bdd7730cc94dcee7fd4a2989a212ab4e69818f5800439aead13cb0af66e1d'}
+  - {seq: 17, filename: KR6j0570_017.yaml, hash: 'sha256:7fbd08206759100c67cefb418654536e9f0043cad6d1bcc85713175e0cbfa39f'}
+  - {seq: 18, filename: KR6j0570_018.yaml, hash: 'sha256:7017c6a203bba8380c83dcfb568837a6feaf44944091e558893077cd170fa68a'}
+  - {seq: 19, filename: KR6j0570_019.yaml, hash: 'sha256:6daca2634908ef4f36201e9720eda1e4e458a530967fe8d127501e47e89c195e'}
+  - {seq: 20, filename: KR6j0570_020.yaml, hash: 'sha256:01af8307b9e5596d53970232a5af7ba8b8e29857d669734d355b48a3e40d3409'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0570_001.markers.yaml, hash: 'sha256:9d0d8c3f48dcbdd9c2c5e2349aee012e9c415f7a3a794a5ac0bb3a59f9932216'}
+  - {seq: 2, role: markers, filename: assets/KR6j0570_002.markers.yaml, hash: 'sha256:226b82e6ec4a9d05d633db11c4dadda79fa45529e551905f8bf545ce4046d250'}
+  - {seq: 3, role: markers, filename: assets/KR6j0570_003.markers.yaml, hash: 'sha256:42e5b3f35329fdeea079779ce2b7f5fdc0e113a422c65901775892c574178d91'}
+  - {seq: 4, role: markers, filename: assets/KR6j0570_004.markers.yaml, hash: 'sha256:387642e289bf98f6d2d7f6b175b0c64fbef8a8476c7fa104dabef9bb10cfc916'}
+  - {seq: 5, role: markers, filename: assets/KR6j0570_005.markers.yaml, hash: 'sha256:7755fc5393c6551330dd45c795bce9d18786d7abed2f4b6ba27c0d915465858a'}
+  - {seq: 6, role: markers, filename: assets/KR6j0570_006.markers.yaml, hash: 'sha256:7e96cdaebcba7cdfab6d75a6b971815afba7530b69e2b9b9b336535aa818c6dd'}
+  - {seq: 7, role: markers, filename: assets/KR6j0570_007.markers.yaml, hash: 'sha256:e3c2d504b160b278c6bc05610e08710bbdb2ddbc1921b511704aefd8dfc03578'}
+  - {seq: 8, role: markers, filename: assets/KR6j0570_008.markers.yaml, hash: 'sha256:dc1750340face09966ddbff144c5358259a52cb47d7b444abae83d677bac5a9c'}
+  - {seq: 9, role: markers, filename: assets/KR6j0570_009.markers.yaml, hash: 'sha256:a4710a51f83d3ff0e1a03702c3e45bb9a2f0b2ea6d872fc946d6a6cbe4b907b3'}
+  - {seq: 10, role: markers, filename: assets/KR6j0570_010.markers.yaml, hash: 'sha256:8f4e64fa57740d6bdf032d0634df4ace970221f09acd77cbc0bb27e66e5cc425'}
+  - {seq: 11, role: markers, filename: assets/KR6j0570_011.markers.yaml, hash: 'sha256:79dacb25e773491dc70009b1f2b5ffade6979ca7f7047aaa02e24efeba826bae'}
+  - {seq: 12, role: markers, filename: assets/KR6j0570_012.markers.yaml, hash: 'sha256:d408cd73022760d44ab4319e89e013275d3d9cbbd6f115194fc9dcf08ab5463d'}
+  - {seq: 13, role: markers, filename: assets/KR6j0570_013.markers.yaml, hash: 'sha256:58beb778f706b67715881180fc5ef4df9afd56d5805a5434613051e251ecff79'}
+  - {seq: 14, role: markers, filename: assets/KR6j0570_014.markers.yaml, hash: 'sha256:93f4e778359268ab26577c95e1190c3a0a241755d867c34233d63d7da9b282d7'}
+  - {seq: 15, role: markers, filename: assets/KR6j0570_015.markers.yaml, hash: 'sha256:2ee7e2e3a27f27d124b0127e9803220f6dc253275793e648a7937c0d74645fd1'}
+  - {seq: 16, role: markers, filename: assets/KR6j0570_016.markers.yaml, hash: 'sha256:61f377602055c2c13da5fa8a849422cc86e62dbc12e7532d20f3e304a6716463'}
+  - {seq: 17, role: markers, filename: assets/KR6j0570_017.markers.yaml, hash: 'sha256:0711861d20f5b16919f6200915be206bda4a077bd080c48da968692a0708816c'}
+  - {seq: 18, role: markers, filename: assets/KR6j0570_018.markers.yaml, hash: 'sha256:3b6fcc244fdb7b37ed7f9932a147ae8a3d572e048883435739ebb9e01e3859cd'}
+  - {seq: 19, role: markers, filename: assets/KR6j0570_019.markers.yaml, hash: 'sha256:9264028551fe44f07bc567601ca62d03dd44c59628939fc9c45cbec16bfd23e2'}
+  - {seq: 20, role: markers, filename: assets/KR6j0570_020.markers.yaml, hash: 'sha256:2c9f96c8ba74b79475b74ebbda1866485dfe2de229a1b9f636ae42306d8f02de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0570_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6141
+  label: 大法炬陀薩尼經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0570_T_001-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 1 緣起品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0570_T_001-mulu-2
+    span:
+    - body
+    - 4569
+    - 4569
+  label: 2 伏魔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0570_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6590
+  label: 大法炬陀羅尼經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0570_T_002-mulu-1
+    span:
+    - body
+    - 37
+    - 37
+  label: 3 授魔記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0570_T_002-mulu-2
+    span:
+    - body
+    - 1221
+    - 1221
+  label: 4 三乘行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0570_T_002-mulu-3
+    span:
+    - body
+    - 2346
+    - 2346
+  label: 5 問法性品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0570_T_002-mulu-4
+    span:
+    - body
+    - 5605
+    - 5605
+  label: 6 菩薩行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0570_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6608
+  label: 大法炬陀羅尼經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0570_T_003-mulu-1
+    span:
+    - body
+    - 1799
+    - 1799
+  label: 7 相好品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0570_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7096
+  label: 大法炬陀羅尼經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0570_T_004-mulu-1
+    span:
+    - body
+    - 4038
+    - 4038
+  label: 8 四念處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0570_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6415
+  label: 大法炬陀羅尼經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0570_T_005-mulu-1
+    span:
+    - body
+    - 32
+    - 32
+  label: 9 四聖諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0570_T_005-mulu-2
+    span:
+    - body
+    - 904
+    - 904
+  label: 10 忍校量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0570_T_005-mulu-3
+    span:
+    - body
+    - 5555
+    - 5555
+  label: 11 三乘教品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0570_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6594
+  label: 大法炬陀羅尼經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0570_T_006-mulu-1
+    span:
+    - body
+    - 42
+    - 42
+  label: 12 三法藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0570_T_006-mulu-2
+    span:
+    - body
+    - 1829
+    - 1829
+  label: 13 法師相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0570_T_006-mulu-3
+    span:
+    - body
+    - 4841
+    - 4841
+  label: 14 謗法果報品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0570_T_006-mulu-4
+    span:
+    - body
+    - 5595
+    - 5595
+  label: 15 勸受持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0570_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6526
+  label: 大法炬陀羅尼經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0570_T_007-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 16 智成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0570_T_007-mulu-2
+    span:
+    - body
+    - 1635
+    - 1635
+  label: 17 忍成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0570_T_007-mulu-3
+    span:
+    - body
+    - 3518
+    - 3518
+  label: 18 證涅槃品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0570_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6335
+  label: 大法炬陀羅尼經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0570_T_008-mulu-1
+    span:
+    - body
+    - 2493
+    - 2493
+  label: 19 勸證品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0570_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6031
+  label: 大法炬陀羅尼經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0570_T_009-mulu-1
+    span:
+    - body
+    - 2348
+    - 2348
+  label: 20 法師行相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0570_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 6953
+  label: 大法炬陀羅尼經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0570_T_010-mulu-1
+    span:
+    - body
+    - 45
+    - 45
+  label: 21 遮謗品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0570_T_010-mulu-2
+    span:
+    - body
+    - 1224
+    - 1224
+  label: 22 持經功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0570_T_010-mulu-3
+    span:
+    - body
+    - 2284
+    - 2284
+  label: 23 為他悔過品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0570_T_010-mulu-4
+    span:
+    - body
+    - 4975
+    - 4975
+  label: 24 六度品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0570_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 6715
+  label: 大法炬陀羅尼經卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0570_T_011-mulu-1
+    span:
+    - body
+    - 2891
+    - 2891
+  label: 25 求證品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0570_T_011-mulu-2
+    span:
+    - body
+    - 4679
+    - 4679
+  label: 26 諸菩薩證三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0570_T_011-mulu-3
+    span:
+    - body
+    - 5656
+    - 5656
+  label: 27 召諸菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0570_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6408
+  label: 大法炬陀羅尼經卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0570_T_012-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 28 問等覺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0570_T_012-mulu-2
+    span:
+    - body
+    - 1747
+    - 1747
+  label: 29 三昧因緣品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0570_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 6877
+  label: 大法炬陀羅尼經卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0570_T_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 30 供養法師品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0570_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7496
+  label: 大法炬陀羅尼經卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0570_T_014-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 31 入海神變品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0570_T_014-mulu-2
+    span:
+    - body
+    - 4991
+    - 4991
+  label: 32 佛昇須彌山頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 7591
+  label: 大法炬陀羅尼經卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-1
+    span:
+    - body
+    - 63
+    - 63
+  label: 33 天伏阿修羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-2
+    span:
+    - body
+    - 1300
+    - 1300
+  label: 34 阿修羅本業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-3
+    span:
+    - body
+    - 2329
+    - 2329
+  label: 35 雜類本業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-4
+    span:
+    - body
+    - 3719
+    - 3719
+  label: 36 說無相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-5
+    span:
+    - body
+    - 4531
+    - 4531
+  label: 37 勸修行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0570_T_015-mulu-6
+    span:
+    - body
+    - 5423
+    - 5423
+  label: 38 三字門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0570_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 5626
+  label: 大法炬陀羅尼經卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0570_T_016-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 39 將護法師品
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0570_T_016-mulu-2
+    span:
+    - body
+    - 1606
+    - 1606
+  label: 40 放光佛本事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0570_T_016-mulu-3
+    span:
+    - body
+    - 4100
+    - 4100
+  label: 41 教證法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0570_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 6828
+  label: 大法炬陀羅尼經卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0570_T_017-mulu-1
+    span:
+    - body
+    - 37
+    - 37
+  label: 42 說無住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0570_T_017-mulu-2
+    span:
+    - body
+    - 2013
+    - 2013
+  label: 43 說聽功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0570_T_017-mulu-3
+    span:
+    - body
+    - 4776
+    - 4776
+  label: 44 諸菩薩證相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6j0570_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 6222
+  label: 大法炬陀羅尼經卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6j0570_T_018-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 45 如化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6j0570_T_018-mulu-2
+    span:
+    - body
+    - 2257
+    - 2257
+  label: 46 緣生法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0570_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 7032
+  label: 大法炬陀羅尼經卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0570_T_019-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 47 信解品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0570_T_019-mulu-2
+    span:
+    - body
+    - 2084
+    - 2084
+  label: 48 離惡友品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0570_T_019-mulu-3
+    span:
+    - body
+    - 3064
+    - 3064
+  label: 49 辯田讚施品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0570_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 7030
+  label: 大法炬陀羅尼經卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0570_T_020-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 50 付菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0570_T_020-mulu-2
+    span:
+    - body
+    - 1805
+    - 1805
+  label: 51 付天帝釋品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0570_T_020-mulu-3
+    span:
+    - body
+    - 2833
+    - 2833
+  label: 52 法師弘護品
+  type: mulu
+  level: 1
+hash: sha256:f8131c9b5aa33ebbfa04bcbafaaaf660022829749ca8860430c2e5a98722e825
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

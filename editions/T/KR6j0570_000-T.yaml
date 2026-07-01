@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0570/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大法炬陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1340.xml
+    old_id: T21n1340
+hash: sha256:3523bbc67fcc21d84a4eab34becc2f2bc6f1768d6dc0779b6bccf985f6f16ec4
